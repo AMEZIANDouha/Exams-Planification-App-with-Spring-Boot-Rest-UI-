@@ -44,3 +44,11 @@ The Exams Planification App is a comprehensive web application built using Sprin
    The interface of the "Exams Planification App" integrates a robust blend of backend functionality and frontend usability, ensuring a seamless experience for administrators, faculty, and students alike. Built on Spring Boot for its efficiency in handling backend operations, the RESTful API enables secure and efficient data exchange between the client and server. The frontend leverages modern web technologies such as HTML5, CSS3, and JavaScript, enhanced by Thymeleaf for server-side templating and Bootstrap for responsive design. This combination delivers a user-friendly UI that adapts seamlessly across devices, providing intuitive navigation and real-time updates on exam schedules and announcements. The interface also features interactive elements and forms for managing exam details effortlessly, reinforcing the application's commitment to usability and productivity in educational institutions.
 
 
+## 06. Contact
+
+For any inquiries or further information regarding the "Predicting Frequent Diseases" project, please feel free to reach out:
+
+- **Name      :**    AMEZIAN Douha  
+- **Email     :**   [ameziandouha9@gmail.com](ameziandouha9@gmail.com)  
+- **LinkedIn  :**  [AMEZIAN Douha](https://www.linkedin.com/in/douha-amezian-033629280/)  
+
