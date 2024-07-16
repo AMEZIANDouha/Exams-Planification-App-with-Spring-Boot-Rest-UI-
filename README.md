@@ -15,21 +15,33 @@ The Exams Planification App is a comprehensive web application built using Sprin
 
 ## 2. Features 
 
-**Administrative Dashboard:** Manage exam details, including dates, times, and locations.
-**User Roles:** Differentiate access levels for administrators, faculty, and students.
-**Schedule Generation:** Automatically generate exam schedules based on predefined constraints.
-**Real-time Updates:** Instant notifications and updates on exam changes and announcements.
-**Intuitive UI:** User-friendly interface for easy navigation and interaction.
-**Security:** Secure authentication and authorization mechanisms to protect sensitive data.
+###### Administrative Dashboard: 
+Manage exam details, including dates, times, and locations.
+###### User Roles: 
+Differentiate access levels for administrators, faculty, and students.
+###### Schedule Generation:
+Automatically generate exam schedules based on predefined constraints.
+###### Real-time Updates:
+Instant notifications and updates on exam changes and announcements.
+###### Intuitive UI:
+User-friendly interface for easy navigation and interaction.
+###### Security:
+Secure authentication and authorization mechanisms to protect sensitive data.
 
 ## 3. Technologies Used
 
--Spring Boot: Framework for developing robust Java applications with minimal configuration.
--Spring MVC: Model-View-Controller architecture for developing flexible and loosely coupled web applications.
--Spring Data JPA: Simplifies database operations with the ORM (Object-Relational Mapping) approach.
--Thymeleaf: Server-side Java template engine for rendering views.
--Bootstrap: Front-end framework for responsive and modern UI design.
--MySQL: Relational database management system for data storage.
+###### Spring Boot: 
+Framework for developing robust Java applications with minimal configuration.
+###### Spring MVC: 
+Model-View-Controller architecture for developing flexible and loosely coupled web applications.
+###### Spring Data JPA: 
+Simplifies database operations with the ORM (Object-Relational Mapping) approach.
+###### Thymeleaf: 
+Server-side Java template engine for rendering views.
+###### Bootstrap: 
+Front-end framework for responsive and modern UI design.
+###### MySQL: 
+Relational database management system for data storage.
 
 ## 5. How to run
 1. **Clone the Repository:**
