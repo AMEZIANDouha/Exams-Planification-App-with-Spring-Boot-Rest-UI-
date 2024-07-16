@@ -4,16 +4,22 @@
 ## Table of Contents
 
 01. [Project Overview](#1-project-overview)
-02. [Features](#2-features)
-03. [Technologies Used](#3-technologies-used)
-04. [Interface](#6-interface)
-05. [How to Run](#7-how-to-run)
-06. [Contact](#10-contact)
+2. [Project Conception](#2-project-conception)
+3. [Features](#3-features)
+4. [Technologies Used](#4-technologies-used)
+5. [Interface](#5-interface) 
+6. [How to Run](#6-how-to-run)
+7. [Contact](#7-contact)
 
 ## 1. Project Overview
 The Exams Planification App is a comprehensive web application built using Spring Boot that facilitates the efficient scheduling and management of exams for educational institutions. Leveraging RESTful API endpoints and a user-friendly UI, this application simplifies the complex task of organizing exam schedules, ensuring smooth coordination between administrators, faculty, and students.
 
-## 2. Features 
+## 2. Project Conception
+![Uploading Conception.drawio (1).png…]()
+
+
+
+## 3. Features 
 
 ###### Administrative Dashboard: 
 Manage exam details, including dates, times, and locations.
@@ -28,7 +34,7 @@ User-friendly interface for easy navigation and interaction.
 ###### Security:
 Secure authentication and authorization mechanisms to protect sensitive data.
 
-## 3. Technologies Used
+## 4. Technologies Used
 
 ###### Spring Boot: 
 Framework for developing robust Java applications with minimal configuration.
@@ -56,7 +62,7 @@ Relational database management system for data storage.
    The interface of the "Exams Planification App" integrates a robust blend of backend functionality and frontend usability, ensuring a seamless experience for administrators, faculty, and students alike. Built on Spring Boot for its efficiency in handling backend operations, the RESTful API enables secure and efficient data exchange between the client and server. The frontend leverages modern web technologies such as HTML5, CSS3, and JavaScript, enhanced by Thymeleaf for server-side templating and Bootstrap for responsive design. This combination delivers a user-friendly UI that adapts seamlessly across devices, providing intuitive navigation and real-time updates on exam schedules and announcements. The interface also features interactive elements and forms for managing exam details effortlessly, reinforcing the application's commitment to usability and productivity in educational institutions.
 
 
-## 06. Contact
+## 07. Contact
 
 For any inquiries or further information regarding the "Predicting Frequent Diseases" project, please feel free to reach out:
 
