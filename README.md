@@ -65,7 +65,7 @@ Relational database management system for data storage.
 
 ## 07. Contact
 
-For any inquiries or further information regarding the "Predicting Frequent Diseases" project, please feel free to reach out:
+For any inquiries or further information regarding the  project, please feel free to reach out:
 
 - **Name      :**    AMEZIAN Douha  
 - **Email     :**   [ameziandouha9@gmail.com](ameziandouha9@gmail.com)  
