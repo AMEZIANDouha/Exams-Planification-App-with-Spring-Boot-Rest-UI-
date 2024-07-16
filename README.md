@@ -15,7 +15,8 @@
 The Exams Planification App is a comprehensive web application built using Spring Boot that facilitates the efficient scheduling and management of exams for educational institutions. Leveraging RESTful API endpoints and a user-friendly UI, this application simplifies the complex task of organizing exam schedules, ensuring smooth coordination between administrators, faculty, and students.
 
 ## 2. Project Conception
-![Uploading Conception.drawio (1).png…]()
+![Conception drawio (1)](https://github.com/user-attachments/assets/3bcc18e9-f30e-4277-93b3-3adfeed35364)
+
 
 
 
